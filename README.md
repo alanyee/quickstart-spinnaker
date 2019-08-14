@@ -28,4 +28,9 @@ Instructions to run Spinnaker using this Cloudformation:
 	- ssh -L 9000:localhost:9000 -L 8084:localhost:8084 -L 8087:localhost:8087 ubuntu@ec2-198-51-100-1.compute-1.amazonaws.com
 
 1. Point your browser to http://localhost:9000 to start using Spinnaker
-    
+
+For architectural details, step-by-step instructions, and customization options, see the [deployment guide](https://fwd.aws/pw3bW).
+
+To post feedback, submit feature ideas, or report bugs, use the **Issues** section of this GitHub repo.
+If you'd like to submit code for this Quick Start, please review the [AWS Quick Start Contributor's Kit](https://aws-quickstart.github.io/). 
+
